@@ -1,6 +1,7 @@
 
 
-{% include_relative _addon/main.scss %}
+// {% include_relative _addon/main.scss %}
+@import "_addon/main.css";
 
 #post-list {
   margin-top: 1rem;

@@ -1,6 +1,6 @@
 
-{% include_relative _addon/main.scss %}
-
+// {% include_relative _addon/main.scss %}
+@import "_addon/main.scss";
 %date-timeline {
   content: "";
   width: 4px;

@@ -1,5 +1,6 @@
 
-{% include_relative _addon/main.scss %}
+//{% include_relative _addon/main.scss %}
+@import "_addon/main.css";
 
 #page-category, #page-tag {
   ul>li {
